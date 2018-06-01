@@ -1,6 +1,6 @@
 ---
 title: "Exploring ggplot"
-output: rmarkdown::github_document
+output: html_document
 ---
 
 ```{r}
